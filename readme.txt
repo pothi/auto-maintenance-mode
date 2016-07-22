@@ -1,4 +1,4 @@
-=== Simple Maintenance ===
+=== Auto Maintenance Mode ===
 Contributors: pothi
 Donate link: https://www.tinywp.in/paypal/
 Tags: maintenance, maintenance mode, under construction, construction, dev, dev site, staging, staging site
@@ -12,9 +12,11 @@ Display a maintenance mode page automatically while you are away from your devel
 
 == Description ==
 
-Auto Maintenance Mode plugin is suitable for development sites or staging sites, such as dev.example.com or staging.example.com. This plugin should never be used on a production site. Auto Maintenance Mode plugin can be easily installed to show a maintenance mode page automatically when you are away from your development site or when you log out.
+Auto Maintenance Mode plugin is suitable for development sites, such as dev.example.com, test.example.com or staging.example.com. This plugin should *NOT* be used on a production site. Auto Maintenance Mode plugin can be easily installed to show a maintenance mode page automatically when you are away from your development site or when you log out.
 
 The plugin does not require any additional configuration or setup. All you need to do is activate it and maintenance mode will be automatically enabled when you don't do anything in your site for a pro-longed period (60 minutes at the moment). It is very lightweight yet powerful. It uses the HTML5 layout which makes the maintenance mode page viewable from a mobile device.
+
+If you are looking for a maintenance mode plugin for a production site, you may consider [simple maintenance plugin](https://wordpress.org/plugins/simple-maintenance/).
 
 = Features =
 
