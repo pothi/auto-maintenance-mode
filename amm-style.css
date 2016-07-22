@@ -1,0 +1,9 @@
+* { margin: 0; 	padding: 0; }
+body { font-family: Georgia, Arial, Helvetica, Sans Serif; font-size: 65.5%; }
+a { color: #08658F; }
+a:hover { color: #0092BF; }
+#header { color: #333; padding: 1.5em; text-align: center; font-size: 1.2em; border-bottom: 1px solid #08658F; }
+#content { font-size: 150%; width:80%; margin:0 auto; padding: 5% 0; text-align: center; }
+#content p { font-size: 1em; padding: .8em 0; }
+h1, h2 { color: #08658F; }
+h1 { font-size: 300%; padding: .5em 0; }
