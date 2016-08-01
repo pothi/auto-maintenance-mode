@@ -10,7 +10,9 @@ Text Domain: auto-maintenance-mode
 Domain Path: /languages
 */
 
+// disable executing this script directly
 if(!defined('ABSPATH')) exit;
+
 if(!class_exists('AUTO_MAINTENANCE_MODE'))
 {
     class AUTO_MAINTENANCE_MODE
