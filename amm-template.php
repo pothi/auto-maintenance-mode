@@ -8,7 +8,7 @@ $url = get_bloginfo('url');
 <html lang="<?php echo $language; ?>">
 <head>
     <meta charset="<?php echo $charset; ?>" />
-    <meta name="viewport" content="width=device-width, intial-width=1">
+    <meta name="viewport" content="width=device-width, initial-width=1">
     <title><?php echo $name; ?> &#8250; Auto Maintenance Mode</title>
     <link rel="stylesheet" href="<?php echo AUTO_MAINTENANCE_MODE_URL.'/amm-style.css' ?>" type="text/css" media="all" />	
 </head>
