@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Auto Maintenance Mode
-Version: 1.0.1
+Version: 1.0.2
 Plugin URI: https://github.com/pothi/auto-maintenance-mode
 Author: pothi
 Author URI: https://www.tinywp.in

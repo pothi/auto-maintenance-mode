@@ -4,7 +4,7 @@ Donate link: https://www.paypal.me/pothi
 Tags: maintenance, maintenance mode, under construction, construction, dev, dev site, staging, staging site
 Requires at least: 3.0
 Tested up to: 4.7.1
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -46,6 +46,12 @@ No screenshots at the moment.
 none
 
 == Changelog ==
+
+= 1.0.2 =
+* Minor update
+
+= 1.0.1 =
+* Minor changes
 
 = 1.0 =
 * First commit
