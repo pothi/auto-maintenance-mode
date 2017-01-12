@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Auto Maintenance Mode
-Version: 1.0
-Plugin URI: https://www.tinywp.in
+Version: 1.0.1
+Plugin URI: https://github.com/pothi/auto-maintenance-mode
 Author: pothi
 Author URI: https://www.tinywp.in
-Description: An auto maintenance mode plugin for development / staging / test sites
+Description: A plugin to enable maintenance mode automatically upon lack of activity on development / staging / test sites.
 Text Domain: auto-maintenance-mode
 Domain Path: /languages
 */
