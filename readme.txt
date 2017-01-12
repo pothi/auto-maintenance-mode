@@ -1,6 +1,6 @@
 === Auto Maintenance Mode ===
 Contributors: pothi
-Donate link: https://www.tinywp.in/paypal/
+Donate link: https://www.paypal.me/pothi
 Tags: maintenance, maintenance mode, under construction, construction, dev, dev site, staging, staging site
 Requires at least: 3.0
 Tested up to: 4.7.1
